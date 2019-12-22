@@ -1,2 +1,2 @@
 # python-pyi-example
-This is just an example
+This is the updated README file
